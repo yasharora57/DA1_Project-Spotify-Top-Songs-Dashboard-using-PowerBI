@@ -1,5 +1,9 @@
 # Spotify Top Songs Dashboard
 
+![Spotify Dashboard](
+https://github.com/yasharora57/DA1_Project-Spotify-Top-Songs-Dashboard-using-PowerBI/blob/31c9327e87eff6d154ab7d3e56b9faffa6922a24/db_picture.png
+)
+
 This repository contains a Power BI dashboard that provides an in-depth analysis of the top Spotify songs for 2023. The dashboard includes various visualizations and insights derived from the dataset, which can be downloaded from Kaggle. Below is a guide on how to set up and use the dashboard.
 
 ## Dataset
